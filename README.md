@@ -22,6 +22,7 @@
 * `DATABASE_URI` - ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀsᴇ ᴜʀʟ ғʀᴏᴍ <a href="https://cloud.mongodb.com" target="/blank">ᴍᴏɴɢᴏ ᴅʙ</a>
 * `DATABASE_NAME` - ʏᴏᴜʀ ᴅᴀᴛᴀ ʙᴀsᴇ ɴᴀᴍᴇ ᴏғ ᴍᴏɴɢᴏ ᴅʙ.
 * `BOT_SESSION` - ʏᴏᴜʀ ʙᴏᴛ ɴᴀᴍᴇ. (Optional)
+* `FORCE_SUB_CHANNEL` - ᴇɴᴛᴇʀ ᴛʜᴇ ʟɪɴᴋ ᴏғ ғ_ꜱᴜʙ ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜ ʟɪᴋᴇ https://t.me/Silicon_Bot_Update 
 </details>
 
 
@@ -61,7 +62,7 @@
 git clone https://github.com/Silicon-Developer/Ultra-Forward-Bot.git
 # Install Packages
 pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
+Edit config.py with variables as given below then run bot
 python3 bot.py
 </pre>
 </p>

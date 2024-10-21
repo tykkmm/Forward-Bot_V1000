@@ -42,7 +42,7 @@
 * `DATABASE_URI` - Mongodb [Database](https://youtu.be/pMJpHoiu1go)
 * `DATABASE_NAME` - Mongodb Database name
 * `BOT_SESSION` - Your Bot name
-* `FORCE_SUB_CHANNEL` - Enter link of fsub channel -  https://telegram.me/RahulReviewsYT
+* `FORCE_SUB_CHANNEL` - Link of fsub channel -  https://telegram.me/RahulReviewsYT
 </details>
 </b>
 

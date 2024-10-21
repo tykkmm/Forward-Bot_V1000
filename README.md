@@ -1,74 +1,15 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">ᴜʟᴛʀᴀ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</p>
-
-
- ![github card](https://github-readme-stats.vercel.app/api/pin/?username=silicon-developer&repo=Ultra-Forward-Bot&theme=dark)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h1 align="center">
- <b><a href="https://t.me/Auto_Forward_Public_Bot" target="/blank">ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a></>
+ <b><a href="https://youtu.be/kuW1DwrHC1M" target="/blank">Forward Bot</a>
 </h1>
 
-<p align="center"></p>
-
-<b>- ᴄᴏɴɢɪғs ᴠᴀʀɪᴀʙʟᴇs</b>
-
-* `BOT_TOKEN` - ɢᴇᴛ ʙᴏᴛ ᴛᴏᴋᴇɴ ғʀᴏᴍ <a href="https://t.me/BotFather" target="/blank">ʙᴏᴛ ғᴀᴛʜᴇʀ</a>
-* `API_ID` - ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ <a href="https://my.telegram.org" target="/blank">ᴛᴇʟᴇɢʀᴀᴍ ᴀᴜᴛʜ</a>
-* `API_HASH` - ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ <a href="https://my.telegram.org" target="/blank">ᴛᴇʟᴇɢᴀᴍ ᴀᴜᴛʜ</a>
-* `OWNER_ID` - ʙᴏᴛ ᴀᴅᴍɪɴ ᴏᴡɴᴇʀ ɪᴅ.
-* `DATABASE_URI` - ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀsᴇ ᴜʀʟ ғʀᴏᴍ <a href="https://cloud.mongodb.com" target="/blank">ᴍᴏɴɢᴏ ᴅʙ</a>
-* `DATABASE_NAME` - ʏᴏᴜʀ ᴅᴀᴛᴀ ʙᴀsᴇ ɴᴀᴍᴇ ᴏғ ᴍᴏɴɢᴏ ᴅʙ.
-* `BOT_SESSION` - ʏᴏᴜʀ ʙᴏᴛ ɴᴀᴍᴇ. (Optional)
-* `FORCE_SUB_CHANNEL` - ᴇɴᴛᴇʀ ᴛʜᴇ ʟɪɴᴋ ᴏғ ғ_ꜱᴜʙ ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜ ʟɪᴋᴇ https://t.me/Silicon_Bot_Update 
-</details>
+<p align="center">🩷 Thanks for Being Here 🩷</p>
 
 
-<summary><h3>
-- <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
-</h3></summary>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Silicon-Developer/Utra-Forward-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
-</h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Silicon-Developer/Ultra-Forward-Bot&branch=main&name=main">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
-</h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/Silicon-Developer/Ultra-Forward-Bot"">
-     <img height="45px" src="https://railway.app/button.svg">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
-</h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/Silicon-Developer/Ultra-Forward-Bot">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a></p> 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
-</h3>
-<p>
-<pre>
-git clone https://github.com/Silicon-Developer/Ultra-Forward-Bot.git
-# Install Packages
-pip3 install -U -r requirements.txt
-Edit config.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
+### 🥰 FEATURES
 
+<details><summary>Tap On Me For Bot Features</summary>
 
-### ғᴇᴀᴛᴜʀᴇs
  - ғᴏʀᴄᴇ sᴜʙsᴄʀɪʙᴇ
  - ғɪxᴇᴅ ʀᴇsᴛ ᴄᴏᴍᴍᴀɴᴅ
  - ᴛᴏᴛᴀʟ ᴍᴇsᴀᴀɢᴇs
@@ -86,13 +27,29 @@ python3 bot.py
  - ғᴏʀᴡᴀʀᴅ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ.
  - sᴋɪᴘ ᴍᴇssᴀɢᴇ ʙᴀsᴇᴅ ᴏɴ ᴇxᴛᴇɴsɪᴏɴ ᴀɴᴅ ᴋᴇʏᴡᴏʀᴅ.
  - ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ + ʜᴇʀᴏᴋᴜ + ʀᴀɪʟᴡᴀʏ.
- - ᴅᴇᴠᴇʟᴏᴘᴇʀ sᴜᴘᴘᴏʀᴛ 24 ×7 ᴀᴛ [sɪʟɪᴄᴏɴ ʙᴏᴛᴢ](https://t.me/Silicon/Botz).
+- [ᴅᴇᴠᴇʟᴏᴘᴇʀ sᴜᴘᴘᴏʀᴛ](https://telegram.me/CodeXSupport) 24x7
+</details>
 
 
+### 🔥 VARIABLES
 
-### ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ
+<details><summary>Tap On Me For Environment Variable</summary>
 
-<hr><pre>
+* `API_ID` - Get From [Here](https://youtu.be/RdMY6Lqfi9w)
+* `API_HASH` - Get From [Here](https://youtu.be/RdMY6Lqfi9w)
+* `BOT_TOKEN` - Get From [BotFather](https://youtu.be/aJILCCXfNVM)
+* `OWNER_ID` - Your ID
+* `DATABASE_URI` - Mongodb [Database](https://youtu.be/pMJpHoiu1go)
+* `DATABASE_NAME` - Mongodb Database name
+* `BOT_SESSION` - Your Bot name
+* `FORCE_SUB_CHANNEL` - Enter link of fsub channel -  https://telegram.me/RahulReviewsYT
+</details>
+</b>
+
+### 😍 COMMANDS
+
+<b><details><summary>Tap On Me For Commands</summary>
+```
 start - sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.
 forward - ᴛᴏ sᴛᴀʀᴛ ғᴏʀᴡᴀʀᴅ.
 unequify - ᴅᴇʟᴇᴛᴇ ᴅᴜᴘʟɪᴄᴀᴛᴇ ғɪʟᴇs ɪɴ ᴄʜᴀɴɴᴇʟ.
@@ -103,14 +60,60 @@ donate - ᴛᴏ sᴜᴘᴘᴏʀᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀs.
 resetall - ᴛᴏ ʀᴇsᴇᴛ ᴀʟʟ ᴜsᴇʀ sᴇᴛᴛɪɴɢs. (ᴏᴡɴᴇʀ ᴏɴʟʏ)
 broadcast - ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴜsᴇʀ. (ᴏᴡɴᴇʀ ᴏɴʟʏ)
 restart - ʀᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ. (ᴏᴡɴᴇʀ ᴏɴʟʏ)
-</pre><hr>
+```
+</b>
+</details>
+
+### 📶 DEPLOYEMENT
+<details>
+<summary><b>Tap On Me For Deploy</summary>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://github.com/CodeXBots/Forward-Bot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
+</h3>
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBots/Forward-Bot&branch=main&name=Forward-Bot">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
+</h3>
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Forward-Bot">
+     <img height="45px" src="https://railway.app/button.svg">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
+</h3>
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/CodeXBots/Forward-Bot">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a></p>
+</details>
+
+### 🥳 CREDIT
+
+<details><summary>Tap On Me For Credit</summary>
 
 
-### Cʀᴇᴅɪᴛs
+💝 [CodeXBots](https://github.com/CodeXBots)
 
- - ᴛʜɪs ʀᴇᴘᴏ ᴡᴀs ᴅᴇsɪɴᴇᴅ ʙʏ [Sɪʟɪᴄᴏɴ ʙᴏᴛᴢ](htpps://t.me/Silicon_Bot_Update) 
- - ᴛʜɪs ʙᴏᴛ ᴡᴀs ғᴜʟʟʏ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ [sɪʟɪᴄᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ ⚠️](https://t.me/Silicon_Official)
- - ᴛʜᴀɴᴋs ᴛᴏ 𝗛𝗢𝗥𝗥𝗜𝗗
- - ᴛʜᴀɴᴋs ᴛᴏ ⚝𝗠𝗿.𝗦𝗣𝗜𝗗𝗬⚝
- - ᴛʜᴀɴᴋs ᴛᴏ ⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |
- - ᴛʜɪs ʙᴏᴛ ʙᴀsᴇ ʀᴇᴘᴏ ᴡᴀs ᴘᴜʙʟɪᴄʟʟʏ ғᴏᴜɴᴅ ʙʏ ᴍᴇ ɪɴ ɴᴏᴛ ᴛʜᴇ sᴛᴀɢᴇ ᴛᴏ ᴅᴇᴘʟᴏʏ ɪᴛ ʜᴀs ᴀʟʟᴏᴛ ᴏғ ʙᴜɢs sᴏ ɴᴏ ᴄʀᴇᴅɪᴛ ᴛᴏ ʙᴀsᴇ ʀᴇᴘᴏ ᴀʟsᴏ ɪ ᴅɪᴅɴ'ᴛ ᴋɴᴏᴡ ʙᴀsᴇ ʀᴇᴘᴏ ᴏᴡɴᴇʀ.
+💘 [Silicon Developer](https://github.com/Silicon-Developer)
+
+💖 And Thank You So Much To All Who Help In This Journey.
+</details>
+
+### 💕 CONTACT DEVELOPER
+
+- [Rahul](https://telegram.me/CodeXBro)
+
+### ☕ BUY ME A COFFEE
+- [PayPal](https://paypal.me/RahulReviews)
+- [UPI](https://codexbots.github.io/Donate)
+
+### 📌 NOTE
+
+𝘊𝘰𝘱𝘺𝘪𝘯𝘨 𝘰𝘳 𝘚𝘦𝘭𝘭𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘳𝘦𝘱𝘰 𝘪𝘴 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘱𝘳𝘰𝘩𝘪𝘣𝘪𝘵𝘦𝘥.</b>

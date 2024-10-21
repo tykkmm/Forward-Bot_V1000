@@ -1,7 +1,3 @@
-#Dont Remove My Credit @Silicon_Bot_Update 
-#This Repo Is By @Silicon_Official 
-# For Any Kind Of Error Ask Us In Support Group @Silicon_Botz 
-
 from os import environ 
 from config import Config
 import motor.motor_asyncio
@@ -177,9 +173,5 @@ class Database:
     
     async def get_all_frwd(self):
        return self.nfy.find({})
-       
- #Dont Remove My Credit @Silicon_Bot_Update 
-#This Repo Is By @Silicon_Official 
-# For Any Kind Of Error Ask Us In Support Group @Silicon_Botz 
-    
+
 db = Database(Config.DATABASE_URI, Config.DATABASE_NAME)

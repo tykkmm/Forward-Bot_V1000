@@ -16,6 +16,7 @@
  - Forwarding with User Bot
  - Broadcast Cmd
  - Login Feature
+ - Support Restricted Chats
  - Set Custom Buttons
  - Set Custom Caption
  - Skip Messages

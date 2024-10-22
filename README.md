@@ -14,8 +14,8 @@
  - Reset Cmd
  - Best UI
  - Forwarding with User Bot
- - Broadcast
- - Login 
+ - Broadcast Cmd
+ - Login Feature
  - Set Custom Buttons
  - Set Custom Caption
  - Skip Messages

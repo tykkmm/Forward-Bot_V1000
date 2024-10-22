@@ -10,24 +10,23 @@
 
 <details><summary>Tap On Me For Bot Features</summary>
 
- - ғᴏʀᴄᴇ sᴜʙsᴄʀɪʙᴇ
- - ғɪxᴇᴅ ʀᴇsᴛ ᴄᴏᴍᴍᴀɴᴅ
- - ᴛᴏᴛᴀʟ ᴍᴇsᴀᴀɢᴇs
- - ʙᴇsᴛ ᴜɪ/ᴜx
- - ᴇxᴀᴄᴛ ᴜᴘᴛɪᴍᴇ
- - ғᴏʀᴡᴀʀᴅɪɴɢ ᴡɪᴛʜ ᴜsᴇʀ ʙᴏᴛ
- - ʙʀᴏᴀᴅᴄᴀsᴛ sᴜᴘᴘᴏʀᴛ.
- - sᴇᴛ ᴄᴜsᴛᴏᴍ ʙᴜᴛᴛᴏɴ.
- - sᴇᴛ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ.
- - sᴋɪᴘ ᴍᴇssᴀɢᴇs.
- - sᴋɪᴘ sᴜᴘʟɪᴄᴀᴛᴇ ᴍᴇssᴀɢᴇs.
- - ғɪʟᴛᴇʀ ᴛʏᴘᴇ ᴏғ ᴍᴇssᴀɢᴇs.
- - ʏᴏᴜ ᴄᴀɴ ᴀᴅᴅ ʏᴏᴜʀ ʙᴏᴛ ᴀɴᴅ ᴜsᴇʀ ʙᴏᴛ ᴛʜʀᴏᴜɢʜ ʟᴏɢɪɴ.
- - ғᴏʀᴡᴀʀᴅ ᴍᴇssᴀɢᴇs ғʀᴏᴍ ᴘᴜʙʟɪᴄ ᴄʜᴀɴɴᴇʟ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ.
- - ғᴏʀᴡᴀʀᴅ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ.
- - sᴋɪᴘ ᴍᴇssᴀɢᴇ ʙᴀsᴇᴅ ᴏɴ ᴇxᴛᴇɴsɪᴏɴ ᴀɴᴅ ᴋᴇʏᴡᴏʀᴅ.
- - ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ + ʜᴇʀᴏᴋᴜ + ʀᴀɪʟᴡᴀʏ.
-- [ᴅᴇᴠᴇʟᴏᴘᴇʀ sᴜᴘᴘᴏʀᴛ](https://telegram.me/CodeXSupport) 24x7
+ - Force Subscribe
+ - Reset Cmd
+ - Best UI
+ - Forwarding with User Bot
+ - Broadcast
+ - Login 
+ - Set Custom Buttons
+ - Set Custom Caption
+ - Skip Messages
+ - Skip Duplicate Messages
+ - Filter Messages
+ - You can add your bot or User Bot through Login
+ - Forward Messages from public Channel/Group to your Channel
+ - Forward Messages from private Channel/Group to your Channel
+ - Skip messages based on Extinction & Keywords
+ - Deploy to Koyeb + Heroku + Railway + Render.
+- [Developer Support](https://telegram.me/CodeXSupport) 24x7
 </details>
 
 

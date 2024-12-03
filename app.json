@@ -10,7 +10,7 @@
     "bot"
   ],
   "success_url": "https://telegram.me/RahulReviewsYT",
-  "repository": "https://github.com/CodeXBots/Forward-Bot",
+  "repository": "https://github.com/TechifyBots/Forward-Bot",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",

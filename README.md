@@ -27,7 +27,7 @@
  - Forward Messages from private Channel/Group to your Channel
  - Skip messages based on Extinction & Keywords
  - Deploy to Koyeb + Heroku + Railway + Render.
-- [Developer Support](https://telegram.me/CodeXSupport) 24x7
+- [Developer Support](https://telegram.me/TechifySupport) 24x7
 </details>
 
 
@@ -61,45 +61,15 @@ resetall - ᴛᴏ ʀᴇsᴇᴛ ᴀʟʟ ᴜsᴇʀ sᴇᴛᴛɪɴɢs. (ᴏᴡɴᴇ
 broadcast - ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴜsᴇʀ. (ᴏᴡɴᴇʀ ᴏɴʟʏ)
 restart - ʀᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ. (ᴏᴡɴᴇʀ ᴏɴʟʏ)
 ```
-</b>
 </details>
 
-### 📶 DEPLOYEMENT
-<details>
-<summary><b>Tap On Me For Deploy</summary>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://github.com/CodeXBots/Forward-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
-</h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBots/Forward-Bot&branch=main&name=Forward-Bot">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
-</h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Forward-Bot">
-     <img height="45px" src="https://railway.app/button.svg">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
-</h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/CodeXBots/Forward-Bot">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a></p>
-</details>
 
 ### 🥳 CREDIT
 
 <details><summary>Tap On Me For Credit</summary>
 
 
-💝 [CodeXBots](https://github.com/CodeXBots)
+💝 [TechifyBots](https://github.com/TechifyBots)
 
 💘 [Silicon Developer](https://github.com/Silicon-Developer)
 
@@ -108,11 +78,11 @@ restart - ʀᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ. (ᴏᴡɴᴇʀ ᴏɴʟʏ)
 
 ### 💕 CONTACT DEVELOPER
 
-- [Rahul](https://telegram.me/CodeXBro)
+- [Rahul](https://telegram.me/TechifySupport)
 
 ### ☕ BUY ME A COFFEE
 - [PayPal](https://paypal.me/RahulReviews)
-- [UPI](https://codexbots.github.io/Donate)
+- [UPI](https://TechifyBots.github.io/Donate)
 
 ### 📌 NOTE
 

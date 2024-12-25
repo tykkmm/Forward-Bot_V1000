@@ -9,7 +9,7 @@
     "forward",
     "bot"
   ],
-  "success_url": "https://telegram.me/RahulReviewsYT",
+  "success_url": "https://telegram.me/TechifyBots",
   "repository": "https://github.com/TechifyBots/Forward-Bot",
   "env": {
     "API_ID": {
